@@ -1,10 +1,5 @@
 # Data Validation
 
-Abstract:
-Data Prober is an intuitive and user-friendly tool that allows users, regardless of their technical expertise,
-to effectively analyze, validate, and manage database content. The tool will make it easy for users to add , delete and
-update the data as well as find and fix missing or incorrect data.
-
 Introduction: 
 Prober is a specialized web application designed to enhance data analysis and management processes. 
 This platform caters to developers, analysts, and administrators, providing a streamlined interface for data exploration,
